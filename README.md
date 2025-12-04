@@ -4,12 +4,6 @@ A modern, feature-rich Android application designed to connect **blood donors** 
 Built using **Kotlin**, **MVVM**, **Room**, **Firebase**, **Google Maps SDK**, and **Material Design 3**, the app ensures real-time updates, donor discovery, request tracking, and cloud synchronization.
 
 ---
-## 🎬 Demo Video
-
-[![Watch the demo video](assets/screenshots/login.png)](assets/demo/Blood%20Bank.mp4)
-
----
-
 ## 📸 Application Screenshots
 
 ### 🔥 Key Screens (Top UI Showcase)
