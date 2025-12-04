@@ -5,6 +5,40 @@ A modern, feature-rich Android application designed to connect **blood donors** 
 Built using **Kotlin**, **MVVM**, **Room**, **Firebase**, **Google Maps SDK**, and **Material Design 3**, the app ensures real-time updates, donor discovery, request tracking, and cloud synchronization.
 
 ---
+## 🎬 Demo Video
+
+<video src="assets/demo/Blood Bank.mp4" width="480" controls></video>
+
+---
+
+## 📸 Application Screenshots
+
+### 🔥 Key Screens (Top UI Showcases)
+
+| Login | Registration | Dashboard | UI Interface |
+|---|---|---|---|
+| <img src="assets/screenshots/login.png" width="220"/> | <img src="assets/screenshots/registration.png" width="220"/> | <img src="assets/screenshots/main_dashboard.png" width="220"/> | <img src="assets/screenshots/ui_interface.png" width="220"/> |
+
+| Find Donors | Add Donors | Request Donors | Request Filters |
+|---|---|---|---|
+| <img src="assets/screenshots/find_donors.png" width="220"/> | <img src="assets/screenshots/add_donors.png" width="220"/> | <img src="assets/screenshots/request_donors.png" width="220"/> | <img src="assets/screenshots/request_based_filters.png" width="220"/> |
+
+---
+
+### 📂 Full Feature Screenshots Gallery
+
+| AI Bot | AI Chat Bot | ML Model | App Start Symbol |
+|---|---|---|---|
+| <img src="assets/screenshots/ai_bot.png" width="200"/> | <img src="assets/screenshots/ai_chat_bot.png" width="200"/> | <img src="assets/screenshots/ml_bert_model.png" width="200"/> | <img src="assets/screenshots/app_start_symbol.png" width="200"/> |
+
+| Firebase Cloud Messaging | Firebase Project Details | Firebase Users | Firebase Users Sign-In |
+|---|---|---|---|
+| <img src="assets/screenshots/firebase_cloud_messaging.png" width="200"/> | <img src="assets/screenshots/firebase_project_details.png" width="200"/> | <img src="assets/screenshots/firebase_users.png" width="200"/> | <img src="assets/screenshots/firebase_users_signin_options.png" width="200"/> |
+
+| Map Integration | Request Screen | Notifications | UI UX Layer |
+|---|---|---|---|
+| <img src="assets/screenshots/map_integration.png" width="200"/> | <img src="assets/screenshots/request.png" width="200"/> | <img src="assets/screenshots/notifications.png" width="200"/> | <img src="assets/screenshots/ui_ux_layer.png" width="200"/> |
+
 
 ## 📌 Table of Contents
 - [Overview](#overview)
@@ -291,3 +325,4 @@ See `LICENSE` for more information.
 
 ---
 ```
+
