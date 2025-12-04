@@ -1,4 +1,3 @@
-````markdown
 # 🩸 Blood Bank Android Application
 
 A modern, feature-rich Android application designed to connect **blood donors** and **recipients** seamlessly.  
@@ -41,7 +40,6 @@ Built using **Kotlin**, **MVVM**, **Room**, **Firebase**, **Google Maps SDK**, a
 ![Request Screen](assets/screenshots/request.png)  
 ![Notifications](assets/screenshots/notifications.png)  
 ![UI/UX Layer](assets/screenshots/ui_ux_layer.png)   
-
 
 ## 📌 Table of Contents
 - [Overview](#overview)
@@ -141,7 +139,7 @@ The app follows modern Android development practices, ensuring a clean architect
 ```bash
 git clone https://github.com/Suman7998/blood-bank-android.git
 cd blood-bank-android
-````
+```
 
 ### **Run the App**
 
@@ -302,7 +300,6 @@ The application follows **MVVM + Clean Architecture**, divided into:
 
 ---
 
-
 ## 🤝 Contributing
 
 1. Fork repository
@@ -328,7 +325,3 @@ See `LICENSE` for more information.
 * Google Maps
 * NewsAPI
 * Open Source Contributors
-
----
-```
-
