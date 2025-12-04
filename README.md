@@ -24,20 +24,17 @@ Built using **Kotlin**, **MVVM**, **Room**, **Firebase**, **Google Maps SDK**, a
 
 ### 📂 Full Feature Screenshots Gallery
 
-![AI Bot](assets/screenshots/ai_bot.png)  
-![AI Chat Bot](assets/screenshots/ai_chat_bot.png)  
-![ML BERT Model](assets/screenshots/ml_bert_model.png)  
-![App Start Symbol](assets/screenshots/app_start_symbol.png)  
+| AI Bot | AI Chat Bot | ML Model | App Start Symbol |
+|---|---|---|---|
+| <img src="assets/screenshots/ai_bot.png" width="200"/> | <img src="assets/screenshots/ai_chat_bot.png" width="200"/> | <img src="assets/screenshots/ml_bert_model.png" width="200"/> | <img src="assets/screenshots/app_start_symbol.png" width="200"/> |
 
-![Firebase Cloud Messaging](assets/screenshots/firebase_cloud_messaging.png)  
-![Firebase Project Details](assets/screenshots/firebase_project_details.png)  
-![Firebase Users](assets/screenshots/firebase_users.png)  
-![Firebase Sign-in Options](assets/screenshots/firebase_users_signin_options.png)  
+| Firebase Cloud Messaging | Firebase Project Details | Firebase Users | Firebase Users Sign-In |
+|---|---|---|---|
+| <img src="assets/screenshots/firebase_cloud_messaging.png" width="200"/> | <img src="assets/screenshots/firebase_project_details.png" width="200"/> | <img src="assets/screenshots/firebase_users.png" width="200"/> | <img src="assets/screenshots/firebase_users_signin_options.png" width="200"/> |
 
-![Map Integration](assets/screenshots/map_integration.png)  
-![Request Screen](assets/screenshots/request.png)  
-![Notifications](assets/screenshots/notifications.png)  
-![UI/UX Layer](assets/screenshots/ui_ux_layer.png)   
+| Map Integration | Request Screen | Notifications | UI UX Layer |
+|---|---|---|---|
+| <img src="assets/screenshots/map_integration.png" width="200"/> | <img src="assets/screenshots/request.png" width="200"/> | <img src="assets/screenshots/notifications.png" width="200"/> | <img src="assets/screenshots/ui_ux_layer.png" width="200"/> |
 
 ## 📌 Table of Contents
 - [Overview](#overview)
