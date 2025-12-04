@@ -18,7 +18,7 @@ Built using **Kotlin**, **MVVM**, **Room**, **Firebase**, **Google Maps SDK**, a
 ![Login Screen](assets/screenshots/login.png)  
 ![Registration Screen](assets/screenshots/registration.png)  
 ![Main Dashboard](assets/screenshots/main_dashboard.png)  
-![UI Interface](assets/screenshots/ui_interface.png)  
+![UI Interface](assets/screenshots/ui_interface.jpg)  
 
 ![Find Donors](assets/screenshots/find_donors.png)  
 ![Add Donors](assets/screenshots/add_donors.png)  
@@ -137,7 +137,7 @@ The app follows modern Android development practices, ensuring a clean architect
 - Android SDK 34  
 - Google Play Services  
 
-### **Clone Repository**
+### Clone Repository
 ```bash
 git clone https://github.com/Suman7998/blood-bank-android.git
 cd blood-bank-android
