@@ -7,44 +7,40 @@ Built using **Kotlin**, **MVVM**, **Room**, **Firebase**, **Google Maps SDK**, a
 ---
 ## 🎬 Demo Video
 
-<video src="assets/demo/Blood Bank.mp4" width="480" controls></video>
+[![Watch the demo video](assets/screenshots/login.png)](assets/demo/Blood%20Bank.mp4)
 
 ---
-
-## 📸 Application Screenshots
 
 ## 📸 Application Screenshots
 
 ### 🔥 Key Screens (Top UI Showcase)
 
-<img src="assets/screenshots/login.png" width="260"/>  
-<img src="assets/screenshots/registration.png" width="260"/>  
-<img src="assets/screenshots/main_dashboard.png" width="260"/>  
-<img src="assets/screenshots/ui_interface.png" width="260"/>  
+![Login Screen](assets/screenshots/login.png)  
+![Registration Screen](assets/screenshots/registration.png)  
+![Main Dashboard](assets/screenshots/main_dashboard.png)  
+![UI Interface](assets/screenshots/ui_interface.png)  
 
-<img src="assets/screenshots/find_donors.png" width="260"/>  
-<img src="assets/screenshots/add_donors.png" width="260"/>  
-<img src="assets/screenshots/request_donors.png" width="260"/>  
-<img src="assets/screenshots/request_based_filters.png" width="260"/>  
-
----
+![Find Donors](assets/screenshots/find_donors.png)  
+![Add Donors](assets/screenshots/add_donors.png)  
+![Request Donors](assets/screenshots/request_donors.png)  
+![Request Filters](assets/screenshots/request_based_filters.png)  
 
 ### 📂 Full Feature Screenshots Gallery
 
-<img src="assets/screenshots/ai_bot.png" width="260"/>  
-<img src="assets/screenshots/ai_chat_bot.png" width="260"/>  
-<img src="assets/screenshots/ml_bert_model.png" width="260"/>  
-<img src="assets/screenshots/app_start_symbol.png" width="260"/>  
+![AI Bot](assets/screenshots/ai_bot.png)  
+![AI Chat Bot](assets/screenshots/ai_chat_bot.png)  
+![ML BERT Model](assets/screenshots/ml_bert_model.png)  
+![App Start Symbol](assets/screenshots/app_start_symbol.png)  
 
-<img src="assets/screenshots/firebase_cloud_messaging.png" width="260"/>  
-<img src="assets/screenshots/firebase_project_details.png" width="260"/>  
-<img src="assets/screenshots/firebase_users.png" width="260"/>  
-<img src="assets/screenshots/firebase_users_signin_options.png" width="260"/>  
+![Firebase Cloud Messaging](assets/screenshots/firebase_cloud_messaging.png)  
+![Firebase Project Details](assets/screenshots/firebase_project_details.png)  
+![Firebase Users](assets/screenshots/firebase_users.png)  
+![Firebase Sign-in Options](assets/screenshots/firebase_users_signin_options.png)  
 
-<img src="assets/screenshots/map_integration.png" width="260"/>  
-<img src="assets/screenshots/request.png" width="260"/>  
-<img src="assets/screenshots/notifications.png" width="260"/>  
-<img src="assets/screenshots/ui_ux_layer.png" width="260"/>  
+![Map Integration](assets/screenshots/map_integration.png)  
+![Request Screen](assets/screenshots/request.png)  
+![Notifications](assets/screenshots/notifications.png)  
+![UI/UX Layer](assets/screenshots/ui_ux_layer.png)   
 
 
 ## 📌 Table of Contents
@@ -85,54 +81,57 @@ The app follows modern Android development practices, ensuring a clean architect
 
 ## 🚀 Features
 
-### **Core Features**
-- 🔒 **User Authentication** (Firebase)
-- 🩸 **Donor Search** by blood type & location  
-- 📝 **Blood Requests** creation & management  
-- 📍 **Donation Centers** using Google Maps  
-- 👤 **User Profiles** with donation history  
-- 🔔 **Real-time Notifications**  
-- 📡 **Offline Support**  
-- 🎙 **Multimedia Support**: Photos, Videos, Voice Notes  
+### Core Features
+👉  User Authentication (Firebase)
+👉  Donor Search by blood type & location
+👉  Blood Request creation & management
+👉  Google Maps integrated donation centers
+👉  User profiles & donation history
+👉  Real-time notifications
+👉  Offline support enabled
+👉  Multimedia support: Photos/Videos/Voice Notes
 
-### **Advanced Features**
-- 📲 Push Notifications (Firebase FCM)  
-- 🗺 Interactive Google Maps integration  
-- 📰 Blood donation news feed (NewsAPI)  
-- 🌙 Dark Mode  
-- 🌎 Multi-language Support  
-- ☁ Cloud Sync & Backup  
-- 🎥 CameraX + ExoPlayer support  
+
+### Advanced Features
+👉 Push Notifications (Firebase FCM)
+👉 Interactive Google Maps integration
+👉 Blood donation news feed (NewsAPI)
+👉 Dark Mode
+👉 Multi-language Support
+👉 Cloud Sync & Backup
+👉 CameraX + ExoPlayer support
 
 ---
 
 ## 🛠 Technical Stack
 
-### **Core**
-- **Language**: Kotlin  
-- **Architecture**: MVVM + Clean Architecture  
-- **Minimum SDK**: 24  
-- **Target SDK**: 34  
-- **Dependency Injection**: Hilt  
-- **Async**: Coroutines + Flow  
-- **Database**: Room (SQLite)  
-- **Backend**: Firebase (Auth, Firestore, Storage, Messaging)  
+### Core
+👉 Language: Kotlin
+👉 Architecture: MVVM + Clean Architecture
+👉 Minimum SDK: 24
+👉 Target SDK: 34
+👉 Dependency Injection: Hilt
+👉 Async Processing: Coroutines + Flow
+👉 Local Database: Room (SQLite)
+👉 Backend: Firebase (Auth, Firestore, Storage, Messaging)
 
-### **Libraries**
-- UI: Material Design 3, RecyclerView, ConstraintLayout  
-- Networking: Retrofit, OkHttp, Gson  
-- Image Loading: Glide  
-- Maps: Google Maps SDK  
-- Media: CameraX, ExoPlayer  
-- Background Tasks: WorkManager  
-- Navigation: Android Jetpack Navigation  
-- Testing: JUnit, Espresso, MockK  
+
+### Libraries
+👉 UI: Material Design 3, RecyclerView, ConstraintLayout
+👉 Networking: Retrofit, OkHttp, Gson
+👉 Image Loading: Glide
+👉 Maps: Google Maps SDK
+👉 Media: CameraX, ExoPlayer
+👉 Background Tasks: WorkManager
+👉 Navigation: Android Jetpack Navigation
+👉 Testing: JUnit, Espresso, MockK
+
 
 ---
 
 ## 📲 Installation
 
-### **Prerequisites**
+### Prerequisites
 - Android Studio Flamingo (2022.2.1) or newer  
 - JDK 11+  
 - Android SDK 34  
@@ -140,7 +139,7 @@ The app follows modern Android development practices, ensuring a clean architect
 
 ### **Clone Repository**
 ```bash
-git clone https://github.com/yourusername/blood-bank-android.git
+git clone https://github.com/Suman7998/blood-bank-android.git
 cd blood-bank-android
 ````
 
@@ -156,7 +155,7 @@ cd blood-bank-android
 
 ## ⚙ Configuration
 
-### **local.properties**
+### local.properties
 
 ```
 MAPS_API_KEY=your_api_key_here
@@ -169,18 +168,18 @@ NEWS_API_KEY=your_news_api_key_here
 
 The application follows **MVVM + Clean Architecture**, divided into:
 
-### **Data Layer**
+### Data Layer
 
 * Repositories
 * Local Data Source (Room)
 * Remote Data Source (Firebase, APIs)
 
-### **Domain Layer**
+### Domain Layer
 
 * Use Cases
 * Repository Interfaces
 
-### **Presentation Layer**
+### Presentation Layer
 
 * Activities / Fragments
 * ViewModels
@@ -217,14 +216,14 @@ The application follows **MVVM + Clean Architecture**, divided into:
 
 ## 🌐 API Integration
 
-### **NewsAPI**
+### NewsAPI
 
 | Endpoint                         | Purpose              |
 | -------------------------------- | -------------------- |
 | `/everything?q=blood donation`   | Latest donation news |
 | `/top-headlines?category=health` | Health headlines     |
 
-### **Google Maps**
+### Google Maps
 
 * Nearby blood banks
 * Donor location routing
@@ -234,26 +233,26 @@ The application follows **MVVM + Clean Architecture**, divided into:
 
 ## 🔥 Firebase Integration
 
-### **Authentication**
+### Authentication
 
 * Email/Password
 * Phone Number
 * Google Sign-In
 * Anonymous Login
 
-### **Firestore Collections**
+### Firestore Collections
 
 * `users`
 * `donors`
 * `requests`
 * `donation_centers`
 
-### **Cloud Messaging**
+### Cloud Messaging
 
 * Blood request alerts
 * Emergency notifications
 
-### **Storage**
+### Storage
 
 * Profile photos
 * Media attachments
