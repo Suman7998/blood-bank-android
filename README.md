@@ -14,15 +14,13 @@ Built using **Kotlin**, **MVVM**, **Room**, **Firebase**, **Google Maps SDK**, a
 
 ### 🔥 Key Screens (Top UI Showcase)
 
-![Login Screen](assets/screenshots/login.png)  
-![Registration Screen](assets/screenshots/registration.png)  
-![Main Dashboard](assets/screenshots/main_dashboard.png)  
-![UI Interface](assets/screenshots/ui_interface.jpg)  
+| Login | Registration | Dashboard | UI Interface |
+|---|---|---|---|
+| <img src="assets/screenshots/login.png" width="220"/> | <img src="assets/screenshots/registration.png" width="220"/> | <img src="assets/screenshots/main_dashboard.png" width="220"/> | <img src="assets/screenshots/ui_interface.jpg" width="220"/> |
 
-![Find Donors](assets/screenshots/find_donors.png)  
-![Add Donors](assets/screenshots/add_donors.png)  
-![Request Donors](assets/screenshots/request_donors.png)  
-![Request Filters](assets/screenshots/request_based_filters.png)  
+| Find Donors | Add Donors | Request Donors | Request Filters |
+|---|---|---|---|
+| <img src="assets/screenshots/find_donors.png" width="220"/> | <img src="assets/screenshots/add_donors.png" width="220"/> | <img src="assets/screenshots/request_donors.png" width="220"/> | <img src="assets/screenshots/request_based_filters.png" width="220"/> |
 
 ### 📂 Full Feature Screenshots Gallery
 
