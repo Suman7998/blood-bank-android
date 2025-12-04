@@ -75,50 +75,47 @@ The app follows modern Android development practices, ensuring a clean architect
 ## 🚀 Features
 
 ### Core Features
-👉  User Authentication (Firebase)
-👉  Donor Search by blood type & location
-👉  Blood Request creation & management
-👉  Google Maps integrated donation centers
-👉  User profiles & donation history
-👉  Real-time notifications
-👉  Offline support enabled
-👉  Multimedia support: Photos/Videos/Voice Notes
-
+- 👉  User Authentication (Firebase)
+- 👉  Donor Search by blood type & location
+- 👉  Blood Request creation & management
+- 👉  Google Maps integrated donation centers
+- 👉  User profiles & donation history
+- 👉  Real-time notifications
+- 👉  Offline support enabled
+- 👉  Multimedia support: Photos/Videos/Voice Notes
 
 ### Advanced Features
-👉 Push Notifications (Firebase FCM)
-👉 Interactive Google Maps integration
-👉 Blood donation news feed (NewsAPI)
-👉 Dark Mode
-👉 Multi-language Support
-👉 Cloud Sync & Backup
-👉 CameraX + ExoPlayer support
+- 👉 Push Notifications (Firebase FCM)
+- 👉 Interactive Google Maps integration
+- 👉 Blood donation news feed (NewsAPI)
+- 👉 Dark Mode
+- 👉 Multi-language Support
+- 👉 Cloud Sync & Backup
+- 👉 CameraX + ExoPlayer support
 
 ---
 
 ## 🛠 Technical Stack
 
 ### Core
-👉 Language: Kotlin
-👉 Architecture: MVVM + Clean Architecture
-👉 Minimum SDK: 24
-👉 Target SDK: 34
-👉 Dependency Injection: Hilt
-👉 Async Processing: Coroutines + Flow
-👉 Local Database: Room (SQLite)
-👉 Backend: Firebase (Auth, Firestore, Storage, Messaging)
-
+- 👉 Language: Kotlin
+- 👉 Architecture: MVVM + Clean Architecture
+- 👉 Minimum SDK: 24
+- 👉 Target SDK: 34
+- 👉 Dependency Injection: Hilt
+- 👉 Async Processing: Coroutines + Flow
+- 👉 Local Database: Room (SQLite)
+- 👉 Backend: Firebase (Auth, Firestore, Storage, Messaging)
 
 ### Libraries
-👉 UI: Material Design 3, RecyclerView, ConstraintLayout
-👉 Networking: Retrofit, OkHttp, Gson
-👉 Image Loading: Glide
-👉 Maps: Google Maps SDK
-👉 Media: CameraX, ExoPlayer
-👉 Background Tasks: WorkManager
-👉 Navigation: Android Jetpack Navigation
-👉 Testing: JUnit, Espresso, MockK
-
+- 👉 UI: Material Design 3, RecyclerView, ConstraintLayout
+- 👉 Networking: Retrofit, OkHttp, Gson
+- 👉 Image Loading: Glide
+- 👉 Maps: Google Maps SDK
+- 👉 Media: CameraX, ExoPlayer
+- 👉 Background Tasks: WorkManager
+- 👉 Navigation: Android Jetpack Navigation
+- 👉 Testing: JUnit, Espresso, MockK
 
 ---
 
