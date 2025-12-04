@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "com.example.bloodbank.app-mergeDebugResources-78:/layout/fragment_donation_centers.xml",
+        "source": "com.example.bloodbank.app-main-81:/layout/fragment_donation_centers.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-mergeDebugResources-78:/layout/fragment_login.xml",
+        "source": "com.example.bloodbank.app-main-81:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-mergeDebugResources-78:/layout/fragment_ml_insights.xml",
+        "source": "com.example.bloodbank.app-main-81:/layout/fragment_ml_insights.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-mergeDebugResources-78:/layout/fragment_splash.xml",
+        "source": "com.example.bloodbank.app-main-81:/layout/fragment_splash.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-mergeDebugResources-78:/layout/dialog_add_donor.xml",
+        "source": "com.example.bloodbank.app-main-81:/layout/dialog_add_donor.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-mergeDebugResources-78:/layout/fragment_alert_details.xml",
+        "source": "com.example.bloodbank.app-main-81:/layout/fragment_alert_details.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-mergeDebugResources-78:/layout/fragment_profile.xml",
+        "source": "com.example.bloodbank.app-main-81:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-mergeDebugResources-78:/layout/dialog_register.xml",
+        "source": "com.example.bloodbank.app-main-81:/layout/dialog_register.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-mergeDebugResources-78:/layout/nav_header.xml",
+        "source": "com.example.bloodbank.app-main-81:/layout/nav_header.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-mergeDebugResources-78:/layout/fragment_donors.xml",
+        "source": "com.example.bloodbank.app-main-81:/layout/fragment_donors.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-mergeDebugResources-78:/layout/item_chat_bot.xml",
+        "source": "com.example.bloodbank.app-main-81:/layout/item_chat_bot.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-mergeDebugResources-78:/layout/item_alert.xml",
+        "source": "com.example.bloodbank.app-main-81:/layout/item_alert.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-mergeDebugResources-78:/layout/item_chat_user.xml",
+        "source": "com.example.bloodbank.app-main-81:/layout/item_chat_user.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-mergeDebugResources-78:/layout/fragment_home.xml",
+        "source": "com.example.bloodbank.app-main-81:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-mergeDebugResources-78:/layout/fragment_requests.xml",
+        "source": "com.example.bloodbank.app-main-81:/layout/fragment_requests.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-mergeDebugResources-78:/layout/activity_main.xml",
+        "source": "com.example.bloodbank.app-main-81:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-mergeDebugResources-78:/layout/fragment_chatbot.xml",
+        "source": "com.example.bloodbank.app-main-81:/layout/fragment_chatbot.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-mergeDebugResources-78:/layout/item_donor.xml",
+        "source": "com.example.bloodbank.app-main-81:/layout/item_donor.xml"
+    }
+]

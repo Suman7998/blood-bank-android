@@ -1,0 +1,250 @@
+[
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/navigation_nav_graph.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/layout_fragment_home.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/layout_dialog_register.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/layout/dialog_register.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/layout_fragment_donors.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/layout/fragment_donors.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/drawable_bg_input_field.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/drawable/bg_input_field.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/drawable_ic_person.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/drawable_bg_button_info.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/drawable/bg_button_info.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/drawable_bg_card_gradient_green.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/drawable/bg_card_gradient_green.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/drawable_ic_person_placeholder.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/drawable/ic_person_placeholder.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/drawable_ic_people.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/drawable/ic_people.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/drawable_bg_card_gradient_blue.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/drawable/bg_card_gradient_blue.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/drawable_blood_group_background.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/drawable/blood_group_background.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/menu_drawer_menu.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/menu/drawer_menu.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/drawable_bg_chat_user.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/drawable/bg_chat_user.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/drawable_ic_heart.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/drawable/ic_heart.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/layout_nav_header.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/layout/nav_header.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/drawable_ic_home.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/layout_fragment_profile.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/layout_fragment_login.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/drawable_ic_phone.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/drawable/ic_phone.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/drawable_bg_card_gradient_red.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/drawable/bg_card_gradient_red.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/layout_fragment_chatbot.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/layout/fragment_chatbot.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/drawable_bg_home_gradient.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/drawable/bg_home_gradient.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/xml_file_paths.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/layout_fragment_donation_centers.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/layout/fragment_donation_centers.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/layout_dialog_add_donor.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/layout/dialog_add_donor.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/drawable_bg_button_secondary.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/drawable/bg_button_secondary.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/drawable_bg_button_success.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/drawable/bg_button_success.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/layout_fragment_alert_details.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/layout/fragment_alert_details.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/drawable_ic_location.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/drawable/ic_location.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/drawable_ic_notification.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/drawable/ic_notification.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/layout_item_chat_bot.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/layout/item_chat_bot.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/drawable_ic_hospital.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/drawable/ic_hospital.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/layout_fragment_requests.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/layout/fragment_requests.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/drawable_ic_blood_request.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/drawable/ic_blood_request.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/drawable_bg_card_modern.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/drawable/bg_card_modern.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/layout_fragment_ml_insights.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/layout/fragment_ml_insights.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/drawable_bg_chat_bot.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/drawable/bg_chat_bot.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/layout_fragment_splash.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/layout/fragment_splash.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/drawable_bg_login_gradient.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/drawable/bg_login_gradient.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/drawable_bg_card_gradient_orange.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/drawable/bg_card_gradient_orange.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/drawable_bg_button_primary.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/drawable/bg_button_primary.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/drawable_ic_logout.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/drawable/ic_logout.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/drawable_ic_emergency.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/drawable/ic_emergency.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/drawable_ic_gender.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/drawable/ic_gender.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/drawable_ic_search.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/drawable_ic_verified.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/drawable/ic_verified.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/drawable_ic_blood_drop.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/drawable/ic_blood_drop.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/drawable_ic_pending.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/drawable/ic_pending.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/layout_item_chat_user.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/layout/item_chat_user.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/layout_item_donor.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/layout/item_donor.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/drawable_bg_blood_group.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/drawable/bg_blood_group.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/layout_activity_main.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/drawable_ic_note.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/drawable/ic_note.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/drawable_bg_card_gradient_purple.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/drawable/bg_card_gradient_purple.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/drawable_bg_button_warning.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/drawable/bg_button_warning.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/layout_item_alert.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/layout/item_alert.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-merged_res-79:/drawable_ic_age.xml.flat",
+        "source": "com.example.bloodbank.app-main-81:/drawable/ic_age.xml"
+    }
+]

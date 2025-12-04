@@ -1,0 +1,137 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <!-- Modern Card Styles -->
+    <style name="CardStyle">
+        <item name="cardCornerRadius">20dp</item>
+        <item name="cardElevation">8dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">8dp</item>
+        <item name="contentPadding">0dp</item>
+        <item name="cardBackgroundColor">@color/card_background</item>
+    </style>
+
+    <style name="ModernCardStyle" parent="CardStyle">
+        <item name="cardCornerRadius">25dp</item>
+        <item name="cardElevation">12dp</item>
+        <item name="android:layout_margin">12dp</item>
+    </style>
+
+    <style name="StatsCardStyle">
+        <item name="cardCornerRadius">20dp</item>
+        <item name="cardElevation">8dp</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_margin">6dp</item>
+        <item name="cardBackgroundColor">@color/card_background</item>
+    </style>
+
+    <!-- Modern Button Styles -->
+    <style name="ModernButtonStyle" parent="Widget.MaterialComponents.Button.UnelevatedButton">
+        <item name="android:textColor">@color/text_white</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:paddingTop">16dp</item>
+        <item name="android:paddingBottom">16dp</item>
+        <item name="android:paddingLeft">32dp</item>
+        <item name="android:paddingRight">32dp</item>
+        <item name="cornerRadius">25dp</item>
+        <item name="android:elevation">8dp</item>
+        <item name="android:stateListAnimator">@null</item>
+    </style>
+
+    <style name="ModernButtonPrimary" parent="ModernButtonStyle">
+        <item name="android:background">@drawable/bg_button_primary</item>
+    </style>
+
+    <style name="ModernButtonSecondary" parent="ModernButtonStyle">
+        <item name="android:background">@drawable/bg_button_secondary</item>
+    </style>
+
+    <style name="ModernButtonSuccess" parent="ModernButtonStyle">
+        <item name="android:background">@drawable/bg_button_success</item>
+    </style>
+
+    <style name="ModernButtonWarning" parent="ModernButtonStyle">
+        <item name="android:background">@drawable/bg_button_warning</item>
+    </style>
+
+    <style name="ModernButtonInfo" parent="ModernButtonStyle">
+        <item name="android:background">@drawable/bg_button_info</item>
+    </style>
+
+    <!-- Legacy Button Styles (for compatibility) -->
+    <style name="ButtonStyle" parent="Widget.MaterialComponents.Button">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:padding">12dp</item>
+        <item name="cornerRadius">8dp</item>
+    </style>
+
+    <style name="ButtonStyle.Filled" parent="ButtonStyle">
+        <item name="backgroundTint">@color/colorPrimary</item>
+    </style>
+
+    <style name="ButtonStyle.Outlined" parent="ButtonStyle">
+        <item name="backgroundTint">@android:color/transparent</item>
+        <item name="strokeColor">@color/colorPrimary</item>
+        <item name="strokeWidth">1dp</item>
+        <item name="android:textColor">@color/colorPrimary</item>
+    </style>
+
+    <!-- Text Styles -->
+    <style name="ModernTitleText">
+        <item name="android:textSize">28sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+
+    <style name="ModernSubtitleText">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/text_secondary</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+    <style name="ModernBodyText">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+    <style name="ModernCaptionText">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/text_secondary</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+    <!-- Input Field Styles -->
+    <style name="ModernInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxCornerRadiusTopStart">15dp</item>
+        <item name="boxCornerRadiusTopEnd">15dp</item>
+        <item name="boxCornerRadiusBottomStart">15dp</item>
+        <item name="boxCornerRadiusBottomEnd">15dp</item>
+        <item name="boxStrokeColor">@color/modern_primary</item>
+        <item name="boxStrokeWidth">2dp</item>
+        <item name="hintTextColor">@color/text_secondary</item>
+    </style>
+
+    <!-- Toolbar Styles -->
+    <style name="ModernToolbarStyle" parent="Widget.MaterialComponents.Toolbar.Primary">
+        <item name="android:background">@drawable/bg_button_primary</item>
+        <item name="titleTextColor">@color/text_white</item>
+        <item name="android:elevation">8dp</item>
+    </style>
+</resources>

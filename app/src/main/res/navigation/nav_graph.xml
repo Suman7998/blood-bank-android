@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/nav_splash">
+
+    <fragment
+        android:id="@+id/nav_splash"
+        android:name="com.example.bloodbank.ui.auth.SplashFragment"
+        android:label="Splash"
+        tools:layout="@layout/fragment_splash" />
+
+    <fragment
+        android:id="@+id/nav_login"
+        android:name="com.example.bloodbank.ui.auth.LoginFragment"
+        android:label="Login"
+        tools:layout="@layout/fragment_login" />
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.bloodbank.ui.home.HomeFragment"
+        android:label="@string/home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_donors"
+        android:name="com.example.bloodbank.ui.donors.DonorsFragment"
+        android:label="@string/donors"
+        tools:layout="@layout/fragment_donors" />
+
+    <fragment
+        android:id="@+id/nav_requests"
+        android:name="com.example.bloodbank.ui.requests.RequestsFragment"
+        android:label="@string/requests"
+        tools:layout="@layout/fragment_requests" />
+
+    <fragment
+        android:id="@+id/nav_donation_centers"
+        android:name="com.example.bloodbank.ui.centers.DonationCentersFragment"
+        android:label="@string/donation_centers"
+        tools:layout="@layout/fragment_donation_centers" />
+
+    <fragment
+        android:id="@+id/nav_profile"
+        android:name="com.example.bloodbank.ui.profile.ProfileFragment"
+        android:label="@string/profile"
+        tools:layout="@layout/fragment_profile" />
+
+    <fragment
+        android:id="@+id/nav_chatbot"
+        android:name="com.example.bloodbank.ui.chat.ChatbotFragment"
+        android:label="Chatbot"
+        tools:layout="@layout/fragment_chatbot" />
+
+</navigation>

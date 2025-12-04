@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">Blood Bank</string>
+    
+    <!-- Navigation -->
+    <string name="home">Home</string>
+    <string name="donors">Donors</string>
+    <string name="requests">Requests</string>
+    <string name="donation_centers">Donation Centers</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    
+    <!-- Home Screen -->
+    <string name="welcome_to_blood_bank">Welcome to Blood Bank</string>
+    <string name="save_lives_donate_blood">Save lives, donate blood today!</string>
+    <string name="find_donor">Find Donor</string>
+    <string name="find_blood_donors_nearby">Find blood donors nearby</string>
+    <string name="request_blood">Request Blood</string>
+    <string name="post_blood_request">Post a blood request</string>
+    <string name="donate_blood">Donate Blood</string>
+    <string name="register_as_donor">Register as a blood donor</string>
+    <string name="nearby_centers">Nearby Centers</string>
+    <string name="find_blood_banks_nearby">Find blood banks nearby</string>
+    <string name="quick_stats">Quick Stats</string>
+    <string name="centers">Centers</string>
+    
+    <!-- Common -->
+    <string name="loading">Loading…</string>
+    <string name="error_occurred">An error occurred</string>
+    <string name="try_again">Try Again</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="submit">Submit</string>
+    <string name="save">Save</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="search">Search</string>
+    
+    <!-- NewsAPI Configuration -->
+    <string name="news_api_key">f498a362b49f43b8bd88a2c8fda421a7</string>
+    <string name="news_api_base_url">https://newsapi.org/v2/everything</string>
+    <string name="news_query">(blood donation OR blood bank OR blood transfusion) AND (hospital OR healthcare OR medical)</string>
+    <string name="news_language">en</string>
+    <string name="news_sort_by">publishedAt</string>
+    <string name="news_page_size">5</string>
+    
+    <!-- Blood Types -->
+    <string-array name="blood_types">
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </string-array>
+    
+    <!-- Blood Group Filter -->
+    <string-array name="blood_groups_filter">
+        <item>All</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </string-array>
+    
+    <!-- Multimedia -->
+    <string name="capture_photo">Capture Photo</string>
+    <string name="record_audio">Record Audio</string>
+    <string name="record_video">Record Video</string>
+    <string name="play_voice_prompt">Play Voice Prompt</string>
+    <string name="upload_document">Upload Document</string>
+    <string name="call_donor">Call Donor</string>
+    <string name="view_images">View Images</string>
+    <string name="play_voice_note">Play Voice Note</string>
+    <string name="play_video_note">Play Video Note</string>
+    
+    <!-- Permissions -->
+    <string name="permission_camera_rationale">Camera permission is needed to capture photos</string>
+    <string name="permission_audio_rationale">Audio permission is needed to record voice notes</string>
+    <string name="permission_call_rationale">Phone permission is needed to make calls to donors</string>
+    <string name="permission_storage_rationale">Storage permission is needed to save files</string>
+    
+    <!-- Validation Messages -->
+    <string name="error_field_required">This field is required</string>
+    <string name="error_invalid_email">Please enter a valid email address</string>
+    <string name="error_invalid_phone">Please enter a valid phone number</string>
+    <string name="error_password_too_short">Password must be at least 6 characters</string>
+    <string name="error_passwords_dont_match">Passwords do not match</string>
+
+    <!-- Google Maps API Key (placeholder; replace with a real key for maps features) -->
+    <string name="google_maps_key">AIzaSyDa9ahawZedqYiMnPr7d-mWeLk4R7nzqV8</string>
+</resources>
