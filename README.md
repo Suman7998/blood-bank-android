@@ -13,31 +13,38 @@ Built using **Kotlin**, **MVVM**, **Room**, **Firebase**, **Google Maps SDK**, a
 
 ## 📸 Application Screenshots
 
-### 🔥 Key Screens (Top UI Showcases)
+## 📸 Application Screenshots
 
-| Login | Registration | Dashboard | UI Interface |
-|---|---|---|---|
-| <img src="assets/screenshots/login.png" width="220"/> | <img src="assets/screenshots/registration.png" width="220"/> | <img src="assets/screenshots/main_dashboard.png" width="220"/> | <img src="assets/screenshots/ui_interface.png" width="220"/> |
+### 🔥 Key Screens (Top UI Showcase)
 
-| Find Donors | Add Donors | Request Donors | Request Filters |
-|---|---|---|---|
-| <img src="assets/screenshots/find_donors.png" width="220"/> | <img src="assets/screenshots/add_donors.png" width="220"/> | <img src="assets/screenshots/request_donors.png" width="220"/> | <img src="assets/screenshots/request_based_filters.png" width="220"/> |
+<img src="assets/screenshots/login.png" width="260"/>  
+<img src="assets/screenshots/registration.png" width="260"/>  
+<img src="assets/screenshots/main_dashboard.png" width="260"/>  
+<img src="assets/screenshots/ui_interface.png" width="260"/>  
+
+<img src="assets/screenshots/find_donors.png" width="260"/>  
+<img src="assets/screenshots/add_donors.png" width="260"/>  
+<img src="assets/screenshots/request_donors.png" width="260"/>  
+<img src="assets/screenshots/request_based_filters.png" width="260"/>  
 
 ---
 
 ### 📂 Full Feature Screenshots Gallery
 
-| AI Bot | AI Chat Bot | ML Model | App Start Symbol |
-|---|---|---|---|
-| <img src="assets/screenshots/ai_bot.png" width="200"/> | <img src="assets/screenshots/ai_chat_bot.png" width="200"/> | <img src="assets/screenshots/ml_bert_model.png" width="200"/> | <img src="assets/screenshots/app_start_symbol.png" width="200"/> |
+<img src="assets/screenshots/ai_bot.png" width="260"/>  
+<img src="assets/screenshots/ai_chat_bot.png" width="260"/>  
+<img src="assets/screenshots/ml_bert_model.png" width="260"/>  
+<img src="assets/screenshots/app_start_symbol.png" width="260"/>  
 
-| Firebase Cloud Messaging | Firebase Project Details | Firebase Users | Firebase Users Sign-In |
-|---|---|---|---|
-| <img src="assets/screenshots/firebase_cloud_messaging.png" width="200"/> | <img src="assets/screenshots/firebase_project_details.png" width="200"/> | <img src="assets/screenshots/firebase_users.png" width="200"/> | <img src="assets/screenshots/firebase_users_signin_options.png" width="200"/> |
+<img src="assets/screenshots/firebase_cloud_messaging.png" width="260"/>  
+<img src="assets/screenshots/firebase_project_details.png" width="260"/>  
+<img src="assets/screenshots/firebase_users.png" width="260"/>  
+<img src="assets/screenshots/firebase_users_signin_options.png" width="260"/>  
 
-| Map Integration | Request Screen | Notifications | UI UX Layer |
-|---|---|---|---|
-| <img src="assets/screenshots/map_integration.png" width="200"/> | <img src="assets/screenshots/request.png" width="200"/> | <img src="assets/screenshots/notifications.png" width="200"/> | <img src="assets/screenshots/ui_ux_layer.png" width="200"/> |
+<img src="assets/screenshots/map_integration.png" width="260"/>  
+<img src="assets/screenshots/request.png" width="260"/>  
+<img src="assets/screenshots/notifications.png" width="260"/>  
+<img src="assets/screenshots/ui_ux_layer.png" width="260"/>  
 
 
 ## 📌 Table of Contents
